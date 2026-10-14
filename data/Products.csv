@@ -1,0 +1,26 @@
+ProductID,ProductName,Category,SubCategory,UnitCost,UnitPrice
+P001,Laptop Pro 15,Electronics,Laptops,620,800
+P002,Laptop Air 13,Electronics,Laptops,480,650
+P003,Monitor 24in,Electronics,Monitors,140,200
+P004,Monitor 27in,Electronics,Monitors,190,270
+P005,Smartphone X,Electronics,Phones,330,450
+P006,Smartphone Lite,Electronics,Phones,150,220
+P007,Tablet 10in,Electronics,Tablets,180,260
+P008,Wireless Mouse,Accessories,Mouse,8,20
+P009,Gaming Mouse,Accessories,Mouse,18,40
+P010,Mechanical Keyboard,Accessories,Keyboards,30,50
+P011,Basic Keyboard,Accessories,Keyboards,10,22
+P012,Headset Pro,Accessories,Audio,35,60
+P013,Earbuds,Accessories,Audio,15,35
+P014,USB-C Cable,Accessories,Cables,2,8
+P015,HDMI Cable,Accessories,Cables,3,10
+P016,Laptop Bag,Accessories,Bags,12,30
+P017,Office Chair,Furniture,Chairs,70,130
+P018,Standing Desk,Furniture,Desks,150,260
+P019,Desk Lamp,Furniture,Lighting,10,25
+P020,Bookshelf,Furniture,Storage,45,90
+P021,Notebook Pack,Stationery,Paper,3,9
+P022,Pen Set,Stationery,Writing,2,7
+P023,Printer Paper A4,Stationery,Paper,4,12
+P024,Stapler,Stationery,Office Tools,3,10
+P025,Whiteboard,Stationery,Office Tools,20,45

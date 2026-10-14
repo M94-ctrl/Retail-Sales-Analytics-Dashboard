@@ -1,0 +1,9 @@
+StoreID,StoreName,City,Region
+S01,Delhi Central,Delhi,North
+S02,Chandigarh Mall,Chandigarh,North
+S03,Mumbai Plaza,Mumbai,West
+S04,Pune Square,Pune,West
+S05,Kolkata Hub,Kolkata,East
+S06,Patna Market,Patna,East
+S07,Chennai Point,Chennai,South
+S08,Bengaluru Tech Park,Bengaluru,South
